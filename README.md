@@ -2,7 +2,7 @@
 This is a project for the final of STA 208.
 
 # Authors
-W.Wu, H.Wang, R.Zhu
+Wang, H., Wu, W. and Zhu, R.
 
 # Data Source
 The raw data is available through Kaggle (https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?resource=download).
