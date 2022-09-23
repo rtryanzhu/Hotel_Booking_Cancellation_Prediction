@@ -1,5 +1,5 @@
-# hotelBookingCancellationPrediction
-This is a project for the final of STA 208.
+# Hotel Booking Cancellation Prediction
+This is the final project of STA 208.
 
 # Authors
 Wang, H., Wu, W. and Zhu, R.
